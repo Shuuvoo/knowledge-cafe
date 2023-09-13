@@ -1,53 +1,53 @@
 [
     {
-      "id": 12345,
+      "id": 1,
       "cover": "https://i.ibb.co/Xs31NBL/1687.jpg",
       "title": "The Quantum Mysteries Unveiled",
       "author": "Dr. Amelia Smith",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://i.ibb.co/52mZ2qb/boy2.jpg",
       "posted_date": "2023-09-05",
       "reading_time": 10,
-      "hashtag": ["QuantumPhysics", "Science"]
+      "hashtags": ["QuantumPhysics", "Science"]
     },
     {
-      "id": 67890,
+      "id": 2,
       "cover": "https://i.ibb.co/qB3hTz7/2220.jpg",
       "title": "Exploring the Secrets of Ancient Civilizations",
       "author": "Professor John Doe",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://i.ibb.co/52mZ2qb/boy2.jpg",
       "posted_date": "2023-08-28",
       "reading_time": 15,
-      "hashtag": ["History", "Archaeology"]
+      "hashtags": ["History", "Archaeology"]
     },
     {
-      "id": 54321,
+      "id": 3,
       "cover": "https://i.ibb.co/1v3kh8J/21034578.jpg",
       "title": "Mastering the Art of Gourmet Cooking",
       "author": "Chef Emily Rodriguez",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://i.ibb.co/52mZ2qb/boy2.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 20,
-      "hashtag": ["Cooking", "CulinaryArts"]
+      "hashtags": ["Cooking", "CulinaryArts"]
     },
     {
-      "id": 98765,
+      "id": 4,
       "cover": "https://i.ibb.co/VTCrmH7/3339.jpg",
       "title": "Inspirational Stories of Resilience",
       "author": "Sarah Thompson",
-      "author_img": "https://example.com/author4.jpg",
+      "author_img": "https://i.ibb.co/52mZ2qb/boy2.jpg",
       "posted_date": "2023-08-15",
       "reading_time": 12,
-      "hashtag": ["Inspiration", "Resilience"]
+      "hashtags": ["Inspiration", "Resilience"]
     },
     {
-      "id": 13579,
+      "id": 5,
       "cover": "https://i.ibb.co/k9y25Ft/18824957.jpg",
       "title": "Navigating the Digital Landscape: Tips for Online Safety",
       "author": "Cybersecurity Expert James Anderson",
-      "author_img": "https://example.com/author5.jpg",
+      "author_img": "https://i.ibb.co/52mZ2qb/boy2.jpg",
       "posted_date": "2023-09-03",
       "reading_time": 8,
-      "hashtag": ["Cybersecurity", "OnlineSafety"]
+      "hashtags": ["Cybersecurity", "OnlineSafety"]
     }
   ]
   
